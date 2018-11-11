@@ -14,7 +14,7 @@ Markdown files incorporated into this site will be converted by Jekyl to the Sit
 - [https://themitchworkspro.github.io/devHelp/helloworld.html](https://themitchworkspro.github.io/devHelp/helloworld.html)  (source is .md)
 
 Return to main GitHub Pages .io Site:
-- [View Content on Git](https://TheMitchWorksPro/themitchworkspro.github.io/)
+- [View Content on Git](https://github.com/TheMitchWorksPro/themitchworkspro.github.io/)
 - [See Content Published as Pages](https://themitchworkspro.github.io/)
 
 >**Note:**
