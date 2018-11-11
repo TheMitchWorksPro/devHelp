@@ -13,7 +13,9 @@ Markdown files incorporated into this site will be converted by Jekyl to the Sit
 - https://themitchworkspro.github.io/devHelp/helloworld.html  (source is .md)
 
 ```
+
 **Note:**
+
 If the md file does not seem to resolve to the formatted HTML file immediately give it time.
 Come back later and the page should work.
 
