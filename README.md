@@ -1,3 +1,19 @@
+# Help For This Site
+To view the content contained in this Readme.md file on Git, go to this URL:
+- https://themitchworkspro.github.io/devHelp/index.html
+
+To see the original source (unedited) for help on the theme for this site - try just this:
+- https://themitchworkspro.github.io/devHelp/
+
+HTML Posted to this site does not get incorporated into the theme - Here is a sample page:
+- https://themitchworkspro.github.io/devHelp/LinksForDevelopers1.html
+
+Markdown files incorporated into this site will be converted by Jekyl to the Site Theme:
+- https://themitchworkspro.github.io/devHelp/helloworld.html  (source is .md)
+
+# Help From Github Pages
+This help content was auto-generated after setting up the theme for this Github pages site.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TheMitchWorksPro/devHelp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
