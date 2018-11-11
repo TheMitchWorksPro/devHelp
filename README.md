@@ -12,6 +12,13 @@ HTML Posted to this site does not get incorporated into the theme - Here is a sa
 Markdown files incorporated into this site will be converted by Jekyl to the Site Theme:
 - https://themitchworkspro.github.io/devHelp/helloworld.html  (source is .md)
 
+```
+**Note:**
+If the md file does not seem to resolve to the formatted HTML file immediately give it time.
+Come back later and the page should work.
+
+```
+
 # Help From Github Pages
 This help content was auto-generated after setting up the theme for this Github pages site.
 
