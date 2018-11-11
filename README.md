@@ -8,7 +8,7 @@ To view the content contained in this Readme.md file on Git, go to this URL:
      https://themitchworkspro.github.io/devHelp/ -->
 
 HTML Posted to this site does not get incorporated into the theme - Here is a sample page<!-- inline comment -->:
-- https://themitchworkspro.github.io/devHelp/LinksForDevelopers1.html
+- [https://themitchworkspro.github.io/devHelp/LinksForDevelopers1.html](https://themitchworkspro.github.io/devHelp/LinksForDevelopers1.html)
 
 Markdown files incorporated into this site will be converted by Jekyl to the Site Theme:
 - [https://themitchworkspro.github.io/devHelp/helloworld.html](https://themitchworkspro.github.io/devHelp/helloworld.html)  (source is .md)
