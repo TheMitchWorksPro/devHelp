@@ -1,9 +1,10 @@
 # Help For This Site
 To view the content contained in this Readme.md file on Git, go to this URL:
 - https://themitchworkspro.github.io/devHelp/index.html
-
-To see the original source (unedited) for help on the theme for this site - try just this:
 - https://themitchworkspro.github.io/devHelp/
+
+<!-- To see the original source (unedited) for help on the theme for this site - try just this:
+     https://themitchworkspro.github.io/devHelp/ -->
 
 HTML Posted to this site does not get incorporated into the theme - Here is a sample page:
 - https://themitchworkspro.github.io/devHelp/LinksForDevelopers1.html
