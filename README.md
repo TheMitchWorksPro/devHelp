@@ -1,16 +1,21 @@
 # Help For This Site
 To view the content contained in this Readme.md file on Git, go to this URL:
+<!-- Note: hyperlinks require full []() in order to publish as link on the github pages site -->
 - [https://themitchworkspro.github.io/devHelp/index.html](https://themitchworkspro.github.io/devHelp/index.html)
 - [https://themitchworkspro.github.io/devHelp/](https://themitchworkspro.github.io/devHelp/)
 
 <!-- To see the original source (unedited) for help on the theme for this site - try just this:
      https://themitchworkspro.github.io/devHelp/ -->
 
-HTML Posted to this site does not get incorporated into the theme - Here is a sample page:
+HTML Posted to this site does not get incorporated into the theme - Here is a sample page<!-- inline comment -->:
 - https://themitchworkspro.github.io/devHelp/LinksForDevelopers1.html
 
 Markdown files incorporated into this site will be converted by Jekyl to the Site Theme:
-- https://themitchworkspro.github.io/devHelp/helloworld.html  (source is .md)
+- [https://themitchworkspro.github.io/devHelp/helloworld.html](https://themitchworkspro.github.io/devHelp/helloworld.html)  (source is .md)
+
+Return to main GitHub Pages .io Site:
+- [View Content on Git](https://TheMitchWorksPro/themitchworkspro.github.io/)
+- [See Content Published as Pages](https://themitchworkspro.github.io/)
 
 >**Note:**
 >
@@ -62,4 +67,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Where Pages On This Site Publish To
 Pages on this site publish to this URL:
 
-https://themitchworkspro.github.io/devHelp/
+[https://themitchworkspro.github.io/devHelp/](https://themitchworkspro.github.io/devHelp/)
